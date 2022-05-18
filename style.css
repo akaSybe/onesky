@@ -18,6 +18,7 @@ Primary use:	Showcase Portfolio
 	src: local('☺'), url('fonts/ObjectSans-Regular.woff') format('woff'), url('fonts/ObjectSans-Regular.ttf') format('truetype'), url('fonts/ObjectSans-Regular.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
+	font-display: swap;
 }
 
 @font-face {
@@ -26,6 +27,7 @@ Primary use:	Showcase Portfolio
 	src: local('☺'), url('fonts/ObjectSans-Bold.woff') format('woff'), url('fonts/ObjectSans-Bold.ttf') format('truetype'), url('fonts/ObjectSans-Bold.svg') format('svg');
 	font-weight: 700;
 	font-style: normal;
+	font-display: swap;
 }
 
 @font-face {
@@ -34,6 +36,7 @@ Primary use:	Showcase Portfolio
 	src: local('☺'), url('fonts/ObjectSans-RegularSlanted.woff') format('woff'), url('fonts/ObjectSans-RegularSlanted.ttf') format('truetype'), url('fonts/ObjectSans-RegularSlanted.svg') format('svg');
 	font-weight: normal;
 	font-style: italic;
+	font-display: swap;
 }
 
 
